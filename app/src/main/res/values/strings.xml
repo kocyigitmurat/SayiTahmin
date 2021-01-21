@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SayiTahmin</string>
+    <string name="tahmin">Tahmininiz</string>
+    <string name="ipucu">İpucu</string>
+    <string name="hak">Hakkınız</string>
+    <string name="tahminEt">GÖNDER</string>
+    <string name="yenidenOyna">Yeniden Oyna</string>
+    <string name="header">0-100 arasındaki sayıyı bulunuz !</string>
+</resources>
